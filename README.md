@@ -45,15 +45,9 @@ This project analyzes food order data from Swiggy using Python (Pandas, Matplotl
 
 - 📊 Pie Chart: Payment method distribution  
 - 📈 Bar Chart: Revenue by city  
-- 📉 Line Chart: Weekly order trend  
-- 📦 Box Plot: Delivery time spread
+
 
 ---
-
-## 💡 Bonus Features
-
-- Calculated **Profit** = 20% of Price  
-- Added **Discount** column (₹30 if price > ₹300)
 
 ---
 
